@@ -49,4 +49,11 @@ download these files to /home/pi
 - ledoff.py
 - ledon.py
 
+# ----NOTES----
+python ledon.py<br>
+python ledoff.py<br>
+
+
+
+
 
