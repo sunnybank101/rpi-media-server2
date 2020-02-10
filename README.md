@@ -15,7 +15,7 @@ sudo apt-get dist-upgrade
 sudo apt-get upgrade
 
 # RaspAP
-https://github.com/sunnybank101/raspap-webgui/tree/sunnybank101-multiinterfaces
+https://github.com/billz/raspap-webgui
 
 # JellyFin
 https://jellyfin.org/
