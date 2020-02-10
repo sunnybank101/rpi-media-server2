@@ -6,12 +6,9 @@ helper files to get the media server up and running properly
 
 # Base Install
 
-Latest Raspbian Image
-
-sudo apt-get update
-
-sudo apt-get dist-upgrade
-
+=> Latest Raspbian Image<br>
+sudo apt-get update<br>
+sudo apt-get dist-upgrade<br>
 sudo apt-get upgrade
 
 # RaspAP
