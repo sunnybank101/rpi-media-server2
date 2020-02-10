@@ -24,9 +24,9 @@ https://jellyfin.org/
 https://github.com/pimoroni/fanshim-python
 
 # Samba
-sudo apt-get install -y samba samba-common
-
-sudo geany /etc/samba/smb.conf    (see the smb.conf file)
+sudo apt-get install -y samba samba-common<br>
+sudo geany /etc/samba/smb.conf    (see the smb.conf file)<br>
+sudo smbpasswd -a pi<br>
 
 # Default drive mount setup - NTFS
 sudo apt-get install -y ntfs-3g<br>
