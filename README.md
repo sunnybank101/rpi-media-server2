@@ -4,11 +4,6 @@
 
 helper files to get the media server up and running properly
 
-WIFI AP         https://github.com/sunnybank101/raspap-webgui
-Media server    https://jellyfin.org/
-
-
-
 # Base Install
 
 Latest Raspbian Image
@@ -21,6 +16,9 @@ sudo apt-get upgrade
 
 # RaspAP
 https://github.com/sunnybank101/raspap-webgui/tree/sunnybank101-multiinterfaces
+
+# JellyFin
+https://jellyfin.org/
 
 # FanShim
 https://github.com/pimoroni/fanshim-python
