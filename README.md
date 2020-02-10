@@ -43,7 +43,7 @@ The main media drive must be labeled "MEDIA" and formatted NTFS<br>
 
 # Startup control
 download these files to /home/pi
-- ledoff.py<br><br>
+- ledoff.py<br>
 - ledon.py<br>
 - up.sh<br>
 
