@@ -25,7 +25,7 @@ https://github.com/pimoroni/fanshim-python
 
 # Samba
 sudo apt-get install -y samba samba-common<br>
-sudo mkdir /share
+sudo mkdir /share<br>
 sudo geany /etc/samba/smb.conf    (see the smb.conf file)<br>
 sudo smbpasswd -a pi<br>
 
