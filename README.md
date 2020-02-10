@@ -43,18 +43,14 @@ The main media drive must be labeled "MEDIA" and formatted NTFS<br>
 
 # Startup control
 download these files to /home/pi
-- ledoff.py
-- ledon.py
-- up.sh
+- ledoff.py<br><br>
+- ledon.py<br>
+- up.sh<br>
 
-create the startup file - see the up.desktop file - you may have to create the autostart folder<br>
+create the startup file (see the up.desktop file) you may have to create the autostart folder<br>
+sudo mkdir /home/pi/.config/autostart<br>
 sudo geany /home/pi/.config/autostart/up.desktop
 
 # ----NOTES----
 python ledon.py<br>
 python ledoff.py<br>
-
-
-
-
-
