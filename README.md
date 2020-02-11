@@ -30,7 +30,7 @@ sudo smbpasswd -a pi<br>
 # Default drive mount setup - NTFS
 sudo apt-get install -y ntfs-3g<br>
 sudo mkdir /mnt/MEDIA<br>
-sudp chmod 777 /mnt/MEDIA<br>
+sudo chmod 777 /mnt/MEDIA<br>
 
 update fstab and add the line below - to get the drive to automount nicely<br>
 sudo geany /etc/fstab<br>
