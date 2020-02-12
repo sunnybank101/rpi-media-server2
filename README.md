@@ -14,12 +14,12 @@ sudo apt-get upgrade
 # RaspAP
 https://github.com/billz/raspap-webgui
 
-=> setup a home page on the pi
-sudo geany /etc/lighttpd/lighttpd.conf
-=> modify the index file names to be html first so we can insert a static page
-index-file.names = ( "index.html", "index.php" )
-=> copy over the simple page and img from the ssd
-sudo cp /mnt/MEDIA/shared-disk/www/* /var/www/html/
+=> setup a home page on the pi<br>
+sudo geany /etc/lighttpd/lighttpd.conf<br>
+=> modify the index file names to be html first so we can insert a static page<br>
+index-file.names = ( "index.html", "index.php" )<br>
+=> copy over the simple page and img from the ssd<br>
+sudo cp /mnt/MEDIA/shared-disk/www/* /var/www/html/<br>
 
 # JellyFin
 https://jellyfin.org/
